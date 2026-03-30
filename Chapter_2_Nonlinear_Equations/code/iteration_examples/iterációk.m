@@ -1,5 +1,9 @@
-% Iterációs eljárások 
-% Általánosságban a ffeladatok megoldási lépései a következõk
+% =========================================================
+% Legacy Hungarian Educational Script
+% Historical problem set demonstrating four root-finding iterative methods
+% This file demonstrates bisection, false position (hur), Newton, and secant methods
+% =========================================================
+
 % 1. Ábrázoljuk a függvény(eke)t
 % 2. Ábra segítségével futtatjuk az eljárást
 % Feltételezem, hogy az eljárások ismertek és a Matlab alapokkal tisztában van mindenki

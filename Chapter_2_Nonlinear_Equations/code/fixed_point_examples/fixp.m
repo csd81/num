@@ -1,6 +1,10 @@
-%Függvény fixpontjának megkeresése, egyenletmegoldás fixpont iterációval
-%Fixpont eljárás f(x)=x alakú egyenletek megoldására használható.
-%Függvény fixpontjának keresése
+% =========================================================
+% Legacy Hungarian Educational Script
+% Historical problem set for fixed-point iteration learning
+% This file demonstrates fixed-point iteration methods for solving
+% equations of the form f(x) = g(x) by transforming to h(x) = x
+% =========================================================
+
 
 %1. Feladat 
 % Keresse meg a ln(3+3x+x^2) függvény fixpontját

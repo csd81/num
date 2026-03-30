@@ -1,0 +1,53 @@
+================================================================================
+ABSOLUTE PATHS TO ALL CREATED FILES
+================================================================================
+
+CHAPTER 3: LINEAR SYSTEMS
+================================================================================
+
+/home/rama/Desktop/num.chapters/Chapter_3_Linear_Systems/code/section_3.3_gaussian_elimination/gaussian_elimination.m
+/home/rama/Desktop/num.chapters/Chapter_3_Linear_Systems/code/section_3.3_gaussian_elimination/gaussian_elimination_no_pivoting.m
+/home/rama/Desktop/num.chapters/Chapter_3_Linear_Systems/code/section_3.3_gaussian_elimination/gaussian_partial_pivoting.m
+/home/rama/Desktop/num.chapters/Chapter_3_Linear_Systems/code/section_3.3_gaussian_elimination/gaussian_complete_pivoting.m
+/home/rama/Desktop/num.chapters/Chapter_3_Linear_Systems/code/section_3.3_gaussian_elimination/gauss_jordan_elimination.m
+/home/rama/Desktop/num.chapters/Chapter_3_Linear_Systems/code/section_3.3_gaussian_elimination/matrix_inverse.m
+
+CHAPTER 4: ITERATIVE TECHNIQUES
+================================================================================
+
+/home/rama/Desktop/num.chapters/Chapter_4_Iterative_Techniques/code/section_4.2_jacobi/jacobi_iteration.m
+/home/rama/Desktop/num.chapters/Chapter_4_Iterative_Techniques/code/section_4.3_gauss_seidel/gauss_seidel_iteration.m
+
+CHAPTER 6: INTERPOLATION
+================================================================================
+
+/home/rama/Desktop/num.chapters/Chapter_6_Interpolation/code/section_6.1_lagrange/lagrange_vandermonde.m
+/home/rama/Desktop/num.chapters/Chapter_6_Interpolation/code/section_6.2_divided_differences/newton_divided_differences.m
+/home/rama/Desktop/num.chapters/Chapter_6_Interpolation/code/section_6.4_hermite/hermite_interpolation.m
+/home/rama/Desktop/num.chapters/Chapter_6_Interpolation/code/section_6.5_splines/cubic_spline_natural.m
+
+CHAPTER 7: NUMERICAL CALCULUS
+================================================================================
+
+/home/rama/Desktop/num.chapters/Chapter_7_Numerical_Calculus/code/section_7.3_integration/simpson_rule.m
+/home/rama/Desktop/num.chapters/Chapter_7_Numerical_Calculus/code/section_7.3_integration/trapezoidal_rule.m
+/home/rama/Desktop/num.chapters/Chapter_7_Numerical_Calculus/code/section_7.3_integration/integration_composite_examples.m
+
+================================================================================
+DOCUMENTATION FILES CREATED
+================================================================================
+
+/home/rama/Desktop/num.chapters/FINAL_REPORT.md
+/home/rama/Desktop/num.chapters/PROCESSING_SUMMARY.txt
+/home/rama/Desktop/num.chapters/FILES_CREATED.txt
+/home/rama/Desktop/num.chapters/FILES_INDEX.txt
+/home/rama/Desktop/num.chapters/IMPROVEMENTS_SUMMARY.txt
+/home/rama/Desktop/num.chapters/README_PROCESSING.txt
+/home/rama/Desktop/num.chapters/ABSOLUTE_PATHS.txt (this file)
+
+================================================================================
+TOTAL: 23 FILES
+  - 16 MATLAB source files
+  - 7 documentation files
+================================================================================
+

@@ -1,9 +1,12 @@
+% Legacy Hungarian educational script - function definition
+% Historical implementation of fixed-point iteration with input prompt
+
 function fixpont(f,t)
-    a=input('Kérem a kezdõpontot: ')
+    a=input('KÃ©rem a kezdÅ‘pontot: ')
     l=1;
     while abs(f(a)-a)>t & l<100
         a=f(a);
-        fprintf('A %d lépésben a közelítõ megoldás: %6f\n',l,a)
+        fprintf('A %d lÃ©pÃ©sben a kÃ¶zelÃ­tÅ‘ megoldÃ¡s: %6f\n',l,a)
         l=l+1;
     end
 end

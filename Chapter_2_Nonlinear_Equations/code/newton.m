@@ -1,17 +1,20 @@
+% Legacy Hungarian educational script - function definition
+% Historical implementation of Newton's method with input prompt
+
 function newton(f,df,t)
-    a=input('KÈrem a kezdıpontot: ')
+    a=input('K√©rem a kezd≈ëpontot: ')
     if f(a)==0 | abs(f(a))<t
-        fprintf('A kezdıpont megold·s!')
+        fprintf('A kezd≈ëpont megold√°s!')
         return
     end
     l=1;
     while abs(f(a))>=t & l < 100
     if df(a) == 0
-        fprintf('Nem tal·lhatÛ megold·s, az Èrintı p·rhuzamos az x tengellyel!')
+        fprintf('Nem tal√°lhat√≥ megold√°s, az √©rint≈ë p√°rhuzamos az x tengellyel!')
         return
     end
     a=a-f(a)/df(a);
-    fprintf('%d. lÈpÈs ut·n a kˆzelÌtı megold·s: %6f\n',l,a)
+    fprintf('%d. l√©p√©s ut√°n a k√∂zel√≠t≈ë megold√°s: %6f\n',l,a)
     l=l+1;
     end
 end
